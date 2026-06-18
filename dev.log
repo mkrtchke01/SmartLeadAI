@@ -1,0 +1,16 @@
+
+> smartlead-ai@1.0.0 dev
+> next dev --port 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 4s
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (616 modules)
+ GET / 200 in 5467ms
+ GET / 200 in 167ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 885ms (610 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 1031ms
